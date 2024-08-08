@@ -3,9 +3,12 @@ Transcrição traduzida [daqui](https://legacyofkain.fandom.com/wiki/Legacy_of_K
   
 Vae victis é uma expressão latina que significa "Ai dos vencidos", ou mais analiticamente, "triste sorte aquela reservada aos derrotados", pois os derrotados em batalha estão inteiramente entregues à misericórdia dos seus conquistadores e não devem esperar ou pedir leniência. (https://pt.wikipedia.org/wiki/Vae_victis)  
   
+----  
+
 == Capítulo Procurando Vingança ==  
 == A Falha do Círculo ==  
-CUTSCENE 1  
+  
+CUTSCENE  
 Há uma operação mágica de máxima importância: a iniciação de uma nova era. Quando for necessário pronunciar uma palavra, todo o planeta deverá estar banhado em sangue.  
   
   
@@ -23,7 +26,9 @@ Mortanius:
 Ariel morre e permanece como espírito nos pilares.  
   
 FIM CUTSCENE 1  
+
 ----  
+
 == Ziegsturhl ==  
 Atendente do bar:  
   A taverna está fechando – é melhor ir embora, estranho.  
@@ -36,14 +41,16 @@ Atendente do bar:
 KAIN V.O. (voice over, ele só pensa, não fala pro atendente):  
   E então fui embora – com o coração e a alma frios. Forçado à estrada e à noite longa e amarga.  
   
-----  
+
 Kain sai da taverna:  
   
 Cara da rua:  
   É ele!  
 Cara da rua 2:  
   Termine! Agora!  
+
 ----  
+
 == Kain no Abismo ==  
 CUTSCENE 2  
   
@@ -56,12 +63,16 @@ Nada é gratuito. Nem vingança.
 MORTANIUS:  
 (risada) Você terá o sangue que deseja...  
 FIM CUTSCENE 2  
+
 ----  
+
 == Mausoléu de Kain ==  
 KAIN V.O.:  
   Acordei com a dor de uma nova existência, num útero úmido de escuridão e decadência.  
   Dentro das paredes destas câmaras eu poderia encontrar descanso. E, se assim o desejar, retomar minha jornada quando meu cansaço diminuir.  
   
+----  
+
 == O cemitério ==  
   
 KAIN V.O.:  
@@ -95,6 +106,8 @@ Depois de matar os bandidos, Mortanius dá a Kain a primeira indicação sobre a
 MORTANIUS V.O.:  
   Isso não acabou, Kain. Esses idiotas foram apenas os instrumentos do seu assassinato, não a causa. Olhe para seus mestres. Olhe para os Pilares e abra caminho para a Fortaleza da Mente...  
   
+----  
+
 == Ziegsturhl ==  
   
 KAIN V.O.:  
@@ -103,12 +116,17 @@ KAIN V.O.:
 KAIN V.O.:  
   O Necromante não me deu um aviso sequer sobre o que a minha ressurreição implicaria, mas devo confessar que, na minha pressa, não procurei nenhum. Seu presente foi uma maldição? Eu buscaria uma resposta nos Pilares.    
   
+----  
+
 == Overland ==  
+
 Kain encontra os Pilares de Nosgoth em sua jornada.  
   
 KAIN V.O.:  
   Os Pilares de Nosgoth. Mesmo em vida, poucas paisagens me comoveram como esta. Fiquei maravilhado com o fato de tal beleza enfeitar nosso mundo moribundo.  
   
+----  
+
 == O Fantasma dos Pilares ==  
   
 ARIEL:  
@@ -143,6 +161,8 @@ ARIEL (desaparecendo):
   
 Ariel fica totalmente transparente à medida que sua voz desaparece.  
   
+----  
+
 == Capítulo Nupraptor ==  
 == Os Pilares de Nosgoth ==  
   
@@ -163,14 +183,20 @@ Examinando os pilares:
  KAIN V.O.: O Pilar dos Estados, protegido pelo Alquimista Anarcrothe.  
  KAIN V.O.: O Pilar da Morte, protegido pelo Necromante Mortanius.  
   
+----  
+
 == Overland ==  
 KAIN V.O.:  
   Esses faróis servem como pontos de referência durante meus vôos em forma de morcego. Depois de memorizar suas localizações, sempre poderei retornar.  
   
+----  
+
 == Nachtholm ==  
 KAIN V.O.:  
   A aldeia de Nachtholm era típica do campesinato Nosgoth, mas entre os agricultores e ferreiros da pacata vida rural rondavam bandidos e ladrões.  
   
+----  
+
 == Steinchencröe ==  
 KAIN V.O.:  
   A cidade de Steinchencröe carregava consigo o aroma infame de seus habitantes. Em vida, eu não teria agraciado o lugar com a minha presença. Na morte, apenas aumentei o fedor.  
@@ -181,6 +207,8 @@ KAIN V.O.
 IRMOK  
   Os bastardos de Steinchencröe me evitam assim como Nosgoth os evita! Eu sei o que significa ser um estranho, vampiro. Não tenho medo de você, mas lembre-se disto: há outros que falarão com você, desde que você saiba como olhar.  
   
+----  
+
 == Vasserbünde ==  
   
 KAIN V.O.:  
@@ -195,6 +223,8 @@ KAIN V.O.:
 KAIN V.O.:  
   O vento carregava gritos do oeste. Não pude deixar de sorrir: outra pessoa neste mundo estava sofrendo mais do que eu.  
   
+----  
+
 == Retiro do Nupraptor ==  
   
 KAIN V.O.:  
@@ -231,6 +261,8 @@ KAIN V.O.:
 KAIN V.O.:  
   Talvez a cabeça de seu amado convença Ariel de que cumpri minha tarefa.  
   
+----  
+
 == The Pillars of Nosgoth ==  
   
 KAIN V.O.:  
@@ -247,6 +279,8 @@ ARIEL:
   A Morte no Círculo dá vida aos Pilares. Para cada Pilar existe um token; somente com estes eles serão restaurados.  
   Mas para alcançar um guerreiro, você deve primeiro violar sua proteção. Encontre Malek e destrua-o. Só então o Círculo cairá.  
   
+----  
+
 == Capítulo A Caça por Malek ==  
 == Coorhagen ==  
   
@@ -262,11 +296,15 @@ KAIN V.O.:
 KAIN V.O.:  
   Morte e doença perseguiam essas ruas. Os corpos jaziam, a maioria nos mesmos lugares para onde o destino os levara. Um regresso a casa perfeito.  
   
+----  
+
 == Overland ==  
   
 KAIN V.O.:  
   O Bastião de Malek, empoleirado desafiadoramente no topo da montanha, negro como a noite contra o manto de neve. Que tipo de homem escolheria uma terra tão dura e totalmente desprovida de vida?  
   
+----  
+
 == Bastião de Malek ==  
   
 MALEK:  
@@ -313,18 +351,24 @@ MALEK:
 KAIN V.O.:  
   Parece que o destino de Malek com minha lâmina foi adiado. Talvez Ariel pudesse oferecer mais orientações.  
   
+----  
+
 == Os Pilares de Nosgoth ==  
   
 KAIN V.O.:  
   Ah, o senhor retorna de mãos vazias. O Sarafan te escapa? Muito bem, vá para o leste do Bastião de Malek.  
   O Oráculo lhe dará ajuda.  
   
+----  
+
 == Capítulo Busca pelo Oráculo ==  
 == Bastião de Malek ==  
   
 KAIN V.O.:  
   No alto desses penhascos, escondido entre uma complexa rede de cavernas, a santidade subterrânea do sábio Oráculo de Nosgoth jazia adormecida. Talvez fosse hora de enfrentar os ventos e procurar este Oráculo, do ponto de vista dos céus.  
   
+----  
+
 == A Caverna do Oráculo==   
   
 MORTANIUS:  
@@ -347,6 +391,8 @@ KAIN V.O.:
   "Foi durante esses tempos sombrios infestados pela praga dos mortos-vivos, que o Círculo trouxe o Sarafan à existência. Treinados para serem devotamente leais ao Círculo e os exterminadores perfeitos do flagelo dos mortos-vivos, eles foram levados a muitas vitórias pelo paladino justo, Malek, protetor do Pilar do Conflito. Eles purificaram os vampiros com fogo e libertaram suas almas para reinos mais abençoados. Não há ira tão terrível quanto a dos justos.  
   Eu já tinha lido o suficiente. Ao mesmo tempo enojado e intrigado, coloquei o livro de volta naquele museu.  
   
+----  
+
 == O Oracle (cutscene) ==  
   
 Kain entra em uma grande caverna através de um túnel sinuoso. Dentro da caverna, um velhinho está sentado perto de uma lareira acesa, cozinhando algo em uma panela enorme. Ele olha para cima quando Kain entra.  
@@ -396,6 +442,8 @@ ORÁCULO:
   Hora, Kain. Próxima vez  
   
 Oráculo desaparece. Sua voz desaparece enquanto ele faz isso.  
+  
+----  
   
 FIM de onde chegamos.  
 Começa novo capítulo: Vorador's Mansion  
