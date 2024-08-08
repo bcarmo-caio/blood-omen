@@ -180,6 +180,9 @@ Examinando os pilares:
  KAIN V.O.: O Pilar do Equilíbrio, outrora defendido por Ariel. Os Pilares escolhem os seus próprios.  
  KAIN V.O.: O Pilar da Energia, protegido pelo Energista DeJoule (LOL DeJoule, Joule é a unidade tradicionalmente usada para medir energia mecânica. A unidade recebeu este nome em homenagem ao físico britânico James Prescott Joule)  
  KAIN V.O.: O Pilar do Tempo, protegido pelo Time Streamer Moebius. (aqui tem outro trocadilho. Uma fita de Moebius é uma fita que não tem dois lados (dentro e fora), ela somente tem um. https://pt.wikipedia.org/wiki/Fita_de_M%C3%B6bius. Ela é feita simplemente pegando uma tira, dobrando e colando as pontas. Em matemática isso muito estudado. Agora Streamer pode significar "uma tira longa e estreita de papel colorido que é usada como decoração para ocasiões especiais, como festas". Agora imagine essa fita como sendo feita de tempo e tendo as propriedades da fita de Moebius ahahha. Foram longe! Outra interpretação pode ser Streamer como uma pessoa que da fluxo, aqui fluxo de tempo, e como é o Moebius, não tem frente e trás, é uma coisa só)  
+
+ ![Fita de Möbius](./MobiusStrip-01.png)
+
  KAIN V.O.: O Pilar dos Estados, protegido pelo Alquimista Anarcrothe.  
  KAIN V.O.: O Pilar da Morte, protegido pelo Necromante Mortanius.  
   
